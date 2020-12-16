@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "module": "es2015",
+        "declaration": true,
+        "esModuleInterop": true
+    },
+    "include": [
+        "./index.ts"
+    ]
+}
