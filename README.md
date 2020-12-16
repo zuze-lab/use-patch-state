@@ -1,7 +1,7 @@
 ## use-patch-state
 
 [![npm version](https://img.shields.io/npm/v/use-patch-state.svg)](https://npmjs.org/package/use-patch-state)
-[![Coverage Status](https://coveralls.io/repos/github/zuze-lab/use-patch-state.svg)](https://coveralls.io/github/zuze-lab/use-patch-state)
+[![Coverage Status](https://coveralls.io/repos/github/zuze-lab/use-patch-state/badge.svg)](https://coveralls.io/github/zuze-lab/use-patch-state)
 [![Build Status](https://travis-ci.com/zuze-lab/use-patch-state.svg)](https://travis-ci.com/zuze-lab/use-patch-state)
 [![Bundle Phobia](https://badgen.net/bundlephobia/minzip/use-patch-state)](https://bundlephobia.com/result?p=use-patch-state)
 
